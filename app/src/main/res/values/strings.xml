@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">movieApp</string>
+    <string name="watchnow">WATCH NOW</string>
+    <string name="batman">Batman</string>
+    <string name="fightClub">Fight Club</string>
+    <string name="yildizlararasi">Yıldızlar Arası</string>
+    <string name="baba">The Gotfather</string>
+    <string name="lalaland">La La Land</string>
+    <string name="button">Watch Now</string>
+    <string name="appBar">MovieApp</string>
+    <string name="bladeRunner">Blade Runner</string>
+</resources>
